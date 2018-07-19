@@ -1,5 +1,5 @@
 class Song
   def initialize(song)
-    @song= argument
+    @song= song
   end
 end
